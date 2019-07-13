@@ -17,8 +17,12 @@ h2  {
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 img {
-    padding: 20px;
+    margin:15px;
     height: 200px;
     width: 200px;
+}
+
+p   {
+    margin: 0px 15px 15px;
 }
 
