@@ -1,0 +1,24 @@
+
+
+body    {
+    height: 1000px;
+    background-image: url("../images/funky-lines.png");
+}
+
+  {
+   
+}
+
+a   {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h2  {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+img {
+    padding: 20px;
+    height: 200px;
+    width: 200px;
+}
+
