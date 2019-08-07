@@ -17,12 +17,21 @@ h2  {
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 img {
-    margin:15px;
+    /* margin:15px; */
     height: 200px;
-    width: 200px;
+    max-width: 100%;
 }
 
 p   {
     margin: 0px 15px 15px;
 }
+.card-body{
+  padding: 0px;
+}
 
+.bottom-center {
+  position: absolute;
+  bottom: 15px;
+  left: 20%;
+  color: white;
+}
